@@ -157,9 +157,11 @@
 3. ELITE
 4.LEGENDA
 5.DEMON
-6. MAGISTER
-7.HYPER
-8.SPONSOR
+6. BERSERK
+7. AVENGER
+8. MAGISTER
+9.HYPER
+10.SPONSOR
 
 
 Привилегии которые можно только выдать:
