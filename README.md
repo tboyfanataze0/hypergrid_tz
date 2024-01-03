@@ -170,13 +170,11 @@
 YouTube
 YouTube+
 TikToker
-Piar-Menegher
 Moder
 St.Moder
 Gl.Moder
 Kurator KP
 Kurator YT/TT
-zam.Admin
 Admin
 
 
