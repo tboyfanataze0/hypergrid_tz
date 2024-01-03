@@ -1,16 +1,16 @@
 /salary
 Рублевая зарплата:
 
- - DEMON 100 руб
- - BERSERK 250 руб
+ - ELITE 100 руб
+ - LEGENDA 250 руб
  - AVENGER 350 руб
  - MAGISTER 500 руб
  - HYPER 750 руб
  - SPONSOR 1000 руб
 
 Монетная зарплата 
-  - DEMON 10.000 монет
- - BERSERK 20.000 монет
+  -ELITE  10.000 монет
+ - LEGENDA 20.000 монет
  - AVENGER 25.000 монет
  - MAGISTER 35.000 монет
  - HYPER 50.000 монет
